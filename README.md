@@ -1,0 +1,3 @@
+# UK working visa checker
+
+The repository contains the code for the streamlit app verifying whether the user entered company name is present in the current register of licensed sponsors. The data is accessed from [the government website](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers). The provides search in the list of organisations licensed to sponsor workers on the Worker and Temporary Worker immigration routes.
