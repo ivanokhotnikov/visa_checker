@@ -1,4 +1,4 @@
-FROM python-3.8.10-slim
+FROM python:3.8.10-slim
 EXPOSE 8501
 COPY requirements.txt app/requirements.txt
 RUN apt-get update && pip install -r app/requirements.txt
